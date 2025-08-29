@@ -9,7 +9,7 @@
 ## 🚀 About Me
 - 🔭 I’m working on academic projects & personal coding assignments  
 - 🌱 Exploring **Web Development**  
-- 🎯 Career Goal: Become a **Software Engineer** and specialize in **Cybersecurity**  
+- 🎯 Career Goal: Become a **Software Engineer** 
 - ⚡ Fun fact: I love **music 🎶** and **movies**  
 
 ---
