@@ -1,43 +1,32 @@
-## Hi there 👋
-
 # 👋 Hi, I'm Gauri Ishurika  
 
 🎓 Undergraduate in **Computing and Information Systems** at the University of Sabaragamuwa, Sri Lanka.  
-💻 Aspiring **Software Engineer | Cybersecurity Enthusiast**  
-🌱 Currently learning **Java, C, Database Systems, System Analysis & Design, and Cybersecurity**  
+💻 Aspiring **Tech Enthusiast**  
+🌱 Currently learning **Java, C, Database Systems**  
 
 ---
 
 ## 🚀 About Me
 - 🔭 I’m working on academic projects & personal coding assignments  
-- 🌱 Exploring **Web Development, Cybersecurity, and Data Structures & Algorithms**  
+- 🌱 Exploring **Web Development**  
 - 🎯 Career Goal: Become a **Software Engineer** and specialize in **Cybersecurity**  
-- ⚡ Fun fact: I love **music 🎶** and **Kool-Aid 😄**  
+- ⚡ Fun fact: I love **music 🎶** and **movies**  
 
 ---
 
 ## 🛠️ Tech Stack
-- **Languages**: C, Java, SQL, HTML, CSS  
+- **Languages**: C(Intermidiate), Java(Intermidiate), SQL, HTML, CSS  
 - **Databases**: MySQL  
-- **Tools**: Git, GitHub, VS Code, Eclipse, NetBeans  
+- **Tools**: Git, GitHub, VS Code, IntelliJ  
 - **Learning**: Cybersecurity, System Analysis, Web Development  
 
 ---
 
-## 📂 Projects
-Here are some projects I’ve worked on:
-- 🍰 **Cake Shop Website** – A responsive website for an online cake shop  
-- 📊 **Portfolio Theory Presentation** – Financial theory explained with visuals  
-- 🏫 **Assignments & Coursework** – Programming fundamentals, flow control, and database systems  
-
----
-
 ## 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/)  
-- 📧 Email: *your-email@example.com*  
-- 🌐 [Portfolio Website](https://your-portfolio-link.com) *(if you have one)*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/gauri-ishurika-0a0268349/)  
+- 📧 Email: *gauriishurika@gmail.com* 
 
 ---
 
-⭐️ From [Gauri-Ishurika](https://github.com/YourUsername)
+⭐️ From [Gauri-Ishurika](https://github.com/Gauri-Ishurika)
 
